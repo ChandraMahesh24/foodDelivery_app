@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FoodDelivery" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#1C233B</item>
+        <item name="backgroundColor">#048C6E </item>  //#AFDDD3
+        <item name="android:textColor">@color/white</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+    <style name="Theme.FoodDelivery" parent="Base.Theme.FoodDelivery" />
+
+</resources>

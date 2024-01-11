@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#787575</color>
+    <color name="red">#9C0A0A</color>
+    <color name="mainbg">#49A7A0</color>
+    <color name="cardbg">#DEE8FF</color>
+    <color name="navBar">#01A38C</color>
+    <color name="main">#1C233B</color>
+</resources>
